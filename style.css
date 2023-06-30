@@ -116,7 +116,7 @@ a:hover{
 }
 
 #showcase{
-    background: url("../img/showcase.jpg");
+    background: url("showcase.jpg");
     
 background-repeat:no-repeat;
     background-size: cover;
